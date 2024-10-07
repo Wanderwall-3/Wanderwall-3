@@ -4,7 +4,7 @@ Hacking is my life
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vignesh murugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh murugan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/VigneshMurugan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh murugan" height="30" width="40" /></a>
 <a href="https://instagram.com/vigne_sh3492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vigne_sh3492" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wanderwall420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wanderwall420" height="30" width="40" /></a>
 </p>
