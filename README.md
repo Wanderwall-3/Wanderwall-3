@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wanderwall420@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17ffC7cVXZS0Q_ZDiZldPYSxj70__sLZc/view?usp=sharing](https://drive.google.com/file/d/17ffC7cVXZS0Q_ZDiZldPYSxj70__sLZc/view?usp=sharing)
+- 📄 Know about my experiences in Competitive Programming [LeetCode Profile](https://leetcode.com/u/wanderwall420/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
