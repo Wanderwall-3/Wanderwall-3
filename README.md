@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:wanderwall420@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/vignesh-sathya-595476257/](https://www.linkedin.com/in/vigneshmurugan-/>LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/vigneshmurugan-/">LinkedIn</a> ·
   <a href="https://leetcode.com/](https://leetcode.com/u/wanderwall420/">LeetCode</a>
 </p>
 
