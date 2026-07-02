@@ -25,7 +25,7 @@ Currently, I am working on web applications, analytics systems, and automation-f
 ### What I Work With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,python,java,fastapi,django,nodejs,express,postgres,mysql,mongodb,aws,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,java,fastapi,nodejs,postgres,mysql,aws,docker,git,github,linux,springboot,keycloak" />
 </p>
 
 ---
