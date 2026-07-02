@@ -25,7 +25,10 @@ Currently, I am working on web applications, analytics systems, and automation-f
 ### What I Work With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,java,fastapi,nodejs,postgres,mysql,aws,docker,git,github,linux,springboot,keycloak" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,java,fastapi,nodejs,postgres,mysql,aws,docker,git,github,linux,spring" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
 </p>
 
 ---
